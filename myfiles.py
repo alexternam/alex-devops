@@ -6,3 +6,9 @@ ansible
 jenkins
 docker 
 maven
+
+kubernetes
+nagios 
+bitbucket
+bash
+
