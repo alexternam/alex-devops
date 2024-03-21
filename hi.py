@@ -3,7 +3,9 @@ def factorial (n):
         return 1
         else:
             return n * fctorial(n - 1)
-            
+          ======>>>>>  
 number = 5
 result = fctorial(number)
 print(f"The factorial of {number} is {result}.")
+final copy
+========
